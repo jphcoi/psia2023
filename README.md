@@ -11,3 +11,10 @@ Here I will report on my data exploration
 ### Here is a subtitle
 
 Then you add text, as you like
+
+I used this code: 
+
+
+```python
+print('bar')
+```
