@@ -4,7 +4,7 @@
 
 Here I will report on my data exploration
 
-![alt text]([http://url/to/img.png])
+![alt text]([sciencespo_psia_graduation_ceremony_2023_rebeca_grynspan_d894b49ccd.png])
 
 ## Second Section
 
